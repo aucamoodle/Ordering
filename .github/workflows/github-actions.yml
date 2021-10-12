@@ -32,8 +32,8 @@ jobs:
         uses: actions/setup-java@v1
         with:
            java-version: 8
-      - name: build with Ant
-        run: ant -noinput -buildfile build.xml 
+      #- name: build with Ant
+       # run: ant -noinput -buildfile build.xml 
         #Ant is for building java code
           # echo test, and deploy your project.
     #added cache actions
