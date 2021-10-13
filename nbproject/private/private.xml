@@ -6,9 +6,13 @@
             <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/model/Food.java</file>
             <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/model/Deliverer.java</file>
             <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/model/User.java</file>
+            <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/Dao/CustomerDao.java</file>
             <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/model/Admin.java</file>
+            <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/resources/CustomerResource.java</file>
+            <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/resources/ApplicationConfig.java</file>
             <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/model/Restaurant.java</file>
             <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/model/Customer.java</file>
+            <file>file:/C:/Users/millyg/Documents/NetBeansProjects/Ordering/src/java/Dao/NewHibernateUtil.java</file>
         </group>
     </open-files>
 </project-private>
